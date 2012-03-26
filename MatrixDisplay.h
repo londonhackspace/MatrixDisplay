@@ -26,7 +26,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <math.h>
-#include <wiring.h>
+#include <Arduino.h>
 #include "HardwareSerial.h"
 
 #include "ht1632_cmd.h"
